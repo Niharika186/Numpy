@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 # a = np.array([[9,8,7],
 #              [4,5,6]])
 # b = np.array([[11,12,13],
